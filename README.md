@@ -1,4 +1,4 @@
-# Online Students' Information Portal
+# Students' Information Portal - React Project 
 
 This project is part of the initial selection process for the IT development committee of the University of Vavuniya. The goal is to build an online Students' Information Portal using **React**, which will allow students to view and manage their personal information. The portal should be developed with an emphasis on efficient programming methods and component-based architecture.
 
